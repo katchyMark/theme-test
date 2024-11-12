@@ -806,6 +806,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "c6a2b698-9289-4163-b8de-ce0a361f20c6",
+            "title": "ffff",
+            "icon": "sicon-clothes-hanger",
+            "path": "test",
+            "fields": []
         }
     ],
     "support_url": null,

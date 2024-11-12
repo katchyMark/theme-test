@@ -812,7 +812,17 @@
             "title": "ffff",
             "icon": "sicon-clothes-hanger",
             "path": "test",
-            "fields": []
+            "fields": [
+                {
+                    "id": "title",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "restttt",
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": null,
